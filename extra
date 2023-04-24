@@ -1,0 +1,136 @@
+https://code.visualstudio.com/ > Install
+https://nodejs.org/en > Install
+https://git-scm.com/downloads > Install
+https://github.com/ > Create Account
+https://github.com/Aakashdeveloper > Follow
+
+
+html
+css
+bootstrap 3,4,5
+Basic Javacript during react (if else, function,loop, array, object)
+Npm
+React = 4
+Mock API
+json-server
+React_hooks -1
+React-JWT(Login Logout)-2
+Deployment
+-> MERN
+-> ReactPy
+-> Netlify
+-> Nginx
+-> Jenkins
+-> Aws
+-> Docker
+-> Github Action
+Basic React Native- 1
+HOC
+React-GraphQL - 1 
+React-Redux - 1
+React-Redux With Hooks - 1
+React-PWA - 1
+React-map -1
+Testing Jest Enzime
+Github
+///////Walkthrough///////
+React-Saga -1
+React-with-typescript-1
+
+React-Query - 1
+--------NOT Backend--------------
+API
+GraphQL
+Login/Logout
+
+
+React
+React is a front library/framework which help to
+build single page application 
+using component based structure
+
+(Open Source)
+NPM 3,168,391
+Node package manager
+> Registery that contains lot of packages
+> Help to install and maintain dependency
+
+JSON (JavaScript Object Notation)
+Way to represent data
+Key:Value pair of data
+[
+    {
+        "name":"John",
+        "city":"Delhi"
+    },
+    {
+        "name":"Nikita",
+        "city":"Paris",
+        "subject":"React"
+    }
+]
+
+package.json
+> First file in that run in the application
+> Entry point to app
+> MetaData (name,description,version)
+> All the dependencies
+> Scripts (start,build,test)
+
+//////Step to generate package.json
+* NodeJs must be installed in laptop
+> go inside the folder where you want package.json
+> npm init 
+> Answer all question
+
+//////Step to install packages
+* NodeJs must be installed in laptop
+> go inside the folder where you want to install
+> npm i packagename/npm install packagename
+npm i packagename@version 
+
+package-lock > dependency tree
+.gitignore > all those thing i want to avoid pushing
+node_modules > all packages of app
+
+>>>>When we get new app
+* npm i
+
+Step To Create React App
+# window
+* One time step
+> open cmd as administrator
+> npm i -g create-react-app
+
+# Every time you need new app
+> open cmd/terminal
+> go inside folder
+> create-react-app appname
+
+# mac/linux
+* One time step
+> open terminal
+> sudo npm i -g create-react-app
+
+# Every time you need new app
+> open terminal
+> go inside folder
+> create-react-app appname
+
+------------------------------------------
+################################
+> Open cmd
+> npx create-react-app appname
+
+///////Step to run react app
+> open terminal/cmd
+> go inside folder
+> npm start
+
+
+///////
+react > Main package of the application
+react-dom > help to load content on the browser
+react-scripts > help to run the application
+
+
